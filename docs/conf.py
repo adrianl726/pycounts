@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"toypycounts"
 copyright = u"2025, Adrian Leung"
 author = u"Adrian Leung"
 
